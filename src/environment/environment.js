@@ -90,4 +90,4 @@ export const environment = {
   GET_PAGINATE_EXPENSEINCOME: "expenseIncome/getPaginateExpenseIncome",
 };
 
-export const BASE_URL = "http://localhost:4000/";
+export const BASE_URL = "https://my-society-backend.vercel.app/";
