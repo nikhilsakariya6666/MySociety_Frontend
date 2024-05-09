@@ -525,9 +525,9 @@ export default function Discussion() {
           </Grid>
         </Grid>
       </MDBox>
-      <Stack spacing={2} align="center">
+      {/* <Stack spacing={2} align="center">
         <Pagination count={20} color="info" />
-      </Stack>
+      </Stack> */}
       <Footer />
     </DashboardLayout>
   );
