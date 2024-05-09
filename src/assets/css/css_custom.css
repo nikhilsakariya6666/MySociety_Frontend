@@ -1,0 +1,7 @@
+.font-bold {
+    font-weight: bold;
+}
+.form-control:disabled, .form-control[readonly] {
+    background-color: #202940 !important;
+    opacity: 1;
+}
